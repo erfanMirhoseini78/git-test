@@ -9,5 +9,3 @@ const register = user => {
 const test = () => {
     return false;
 }
-
-let fakeVariable = 'Fake Value';
