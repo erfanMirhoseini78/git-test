@@ -7,3 +7,9 @@ body {
     align-items: center;
     overflow-x: hidden;
 }
+
+h1 {
+    font-weight: bold;
+    color: skyblue;
+    font-size: 30px;
+}
