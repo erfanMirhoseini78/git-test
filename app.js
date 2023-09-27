@@ -5,3 +5,7 @@ const login = user => {
 const register = user => {
     return true;
 }
+
+const test = () => {
+    return false;
+}
