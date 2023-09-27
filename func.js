@@ -7,3 +7,12 @@ const addCourse = course => {
 const getMe = apiData => {
   return true;
 }
+
+const addNumber = num => {
+  if(num){
+    return true;
+  } 
+  else{
+    return false;
+  }  
+}
