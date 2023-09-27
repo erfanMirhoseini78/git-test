@@ -13,3 +13,9 @@ h1 {
     color: skyblue;
     font-size: 30px;
 }
+
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
