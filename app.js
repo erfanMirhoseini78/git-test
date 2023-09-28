@@ -12,3 +12,7 @@ const test = () => {
 
 let num = 12;
 const username = "erfan";
+
+window.addEventListener('load',() => {
+    consloe.log('Loaded');
+})
