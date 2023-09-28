@@ -9,3 +9,6 @@ const register = user => {
 const test = () => {
     return false;
 }
+
+let num = 12;
+const username = "erfan";
