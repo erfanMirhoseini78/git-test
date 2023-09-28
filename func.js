@@ -9,10 +9,14 @@ const getMe = apiData => {
 }
 
 const addNumber = num => {
-  if(num){
+  if (num) {
     return true;
-  } 
-  else{
+  }
+  else {
     return false;
-  }  
+  }
+}
+
+const setComment = () => {
+  return true;
 }
